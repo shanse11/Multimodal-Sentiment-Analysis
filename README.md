@@ -34,8 +34,6 @@ pip install -r requirements.txt
 链接：https://pan.baidu.com/s/1sdJzZ0KXJqcPZm28vS0_xA 
 提取码：1234
 
-<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240131015945715.png" alt="image-20240131015945715" style="zoom:80%;" />
-
 在下载好所有文件后在此文件目录下终端运行
 
 1在命令行中输入以下代码，即可运行图像和文本的融合特征

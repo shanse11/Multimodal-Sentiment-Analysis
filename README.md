@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ## 代码运行的流程
 
-下载所有文件，由于我的离线下载模型太大无法上传github，因此上传至了网盘，
+下载Github仓库中所有文件，由于我的离线下载模型bert-base-multilingual-cased太大无法上传github，因此上传至了网盘
 
 链接：https://pan.baidu.com/s/1sdJzZ0KXJqcPZm28vS0_xA 
 提取码：1234
